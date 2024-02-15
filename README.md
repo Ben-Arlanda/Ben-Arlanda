@@ -8,7 +8,7 @@ Ironically I always loved building lego models growing up but didn’t expect to
 
 On a personal level I consider myself to be a great listener. I have a strong EQ with a growth mindset and passion for human behaviour and mental health. 
 
-I'm excited about leveraging my blend of soft skills and technical expertise with a great team. 
+I'm excited about leveraging my blend of soft skills and technical expertise to make a positive impact to people lives alongside a great team. 
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
