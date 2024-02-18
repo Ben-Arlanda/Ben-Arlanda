@@ -1,4 +1,4 @@
-👋 Hi, I’m Ben-Arlanda, a Software Engineer with a background in Software Engineering Recruitment. 
+👋 Hi, I’m Ben, a Software Engineer with a background in Software Engineering Recruitment. 
 
 ## 👀 About me 
 
