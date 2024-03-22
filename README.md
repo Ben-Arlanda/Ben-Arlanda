@@ -2,11 +2,11 @@
 
 ## 👀 About me 
 
-I have always been a naturally curious and creative person which is why I decided to follow my passions, changing careers to become a Software Engineer and build stuff! 
-
-Ironically I always loved building lego models growing up but didn’t expect to be playing with invisible lego as an adult. 
+I have always been a naturally curious and creative person which is why I decided to follow my passions, changing careers to become a Software Engineer to craft and develop meaningful digital experiences!
 
 On a personal level I consider myself to be a great listener. I have a strong EQ with a growth mindset and passion for human behaviour and mental health. 
+
+I am a British and Australian Citizen who has resided in 3 countries, life has taught me to think outside the box. This has heightened my ability to communicate effectively with people from diverse backgrounds, facilitating collaboration and understanding. I like to consider unconventional solutions to challenges drawing from my varied experiences and perspectives and also use my adaptability and flexibility, skills that I think are valuable in navigating change and uncertainty in various contexts.
 
 I'm excited about leveraging my blend of soft skills and technical expertise to make a positive impact to people lives alongside a great team. 
 
