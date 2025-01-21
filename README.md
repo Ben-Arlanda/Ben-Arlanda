@@ -1,8 +1,8 @@
-👋 Hi, I’m Ben, a Software Engineer with a background in Software Engineering Recruitment. 
+👋 Hi, I’m Ben, a Full Stack Engineer based in Sydney. 
 
 ## 👀 About me 
 
-I have always been a naturally curious and creative person which is why I decided to follow my passions, changing careers to become a Software Engineer to craft and develop meaningful digital experiences!
+I love transforming ideas into intuitive, impactful solutions that prioritise the user. My passion lies in collaborating across teams, solving problems creatively, and always keeping the user at the heart of the solution.
 
 On a personal level I consider myself to be a great listener. I have a strong EQ with a growth mindset and passion for human behaviour and mental health. 
 
